@@ -9,5 +9,5 @@ Ce dépôt contient tous les fichiers qui ont été mobilisés pour le projet-te
 
 ## Modèle HTR
 
-- `lectaurep_base.mlmodel` : Modèle HTR Lectaurep appliquées les minutes notariales du 19e siècle. 
+- `lectaurep_base.mlmodel` : Modèle HTR Lectaurep entraîné sur des minutes notariales du 19e siècle. 
 
