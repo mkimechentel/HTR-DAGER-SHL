@@ -9,6 +9,5 @@ Ce dépôt contient tous les fichiers qui ont été mobilisés pour le projet-te
 
 ## Modèle HTR
 
-- `lectaurep_base.mlmodel` : Dossier contenant le modèle HTR Lectaurep pour la reconnaissance des textes manuscrits. 
-
+- `lectaurep_base.mlmodel` : Modèle HTR Lectaurep appliquées les minutes notariales du 19e siècle. 
 
